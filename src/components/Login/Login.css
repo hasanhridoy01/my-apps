@@ -1,0 +1,26 @@
+.globet{
+  font-size: 19px;
+  text-align: center;
+  color: #6E85B7;
+}
+.companylimi{
+  font-size: 19px;
+  text-align: center;
+  color: #6E85B7;
+}
+.make{
+  font-size: 9px;
+  margin-top: 15px;
+  color: wheat;
+  text-align: center;
+}
+.blog{
+  height: 400px;
+}
+.loginform{
+  background-color: white;
+  align-items: center;
+}
+.align{
+  align-items: center;
+}
