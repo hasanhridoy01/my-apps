@@ -4,6 +4,9 @@
   background: #35589A;
   font-family: "Nunito";
 }
+.app{
+  align-items: center;
+}
 
 .App-logo {
   height: 40vmin;
